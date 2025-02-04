@@ -1,0 +1,22 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 21 16:55:02 IST 2024
+https\://maven.pkg.github.com/jeet444/cleverVersion3/.lastUpdated=1718969102097
+file\:D\:\\workspace\\BIL\\bigideasmath\\source-fred/repo/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1554718963562
+https\://maven.pkg.github.com/uoc/*/.lastUpdated=1718969101725
+https\://repo1.maven.org/maven2/.error=
+e03d7b4d4b5537c09948212c1dfc7f53474f2c39@default-snapshots-https\://devops.bigideasmath.com/artifactory/libs-snapshot/.lastUpdated=1718969101175
+https\://repo.maven.apache.org/maven2/.lastUpdated=1554719079002
+@default-github-uoc-https\://maven.pkg.github.com/uoc/.lastUpdated=1718969102662
+file\:D\:\\workspace\\BIL\\bigideasmath\\source-kate/repo/.error=
+https\://repo.maven.apache.org/maven2/.error=
+https\://maven.pkg.github.com/uoc/*/.error=
+file\:D\:\\workspace\\BIL\\bigideasmath\\source-kate/repo/.lastUpdated=1554719070178
+https\://jitpack.io/.error=
+file\:D\:\\workspace\\BIL\\bigideasmath\\source-fred/repo/.lastUpdated=1554718963395
+https\://jitpack.io/.lastUpdated=1718969102379
+https\://maven.pkg.github.com/jeet444/cleverVersion3/.error=
+https\://maven.pkg.github.com/uoc/.error=Could not transfer artifact learnositysdk\:learnositysdk\:jar\:sources\:0.15 from/to github-uoc (https\://maven.pkg.github.com/uoc)\: Access denied to https\://maven.pkg.github.com/uoc/learnositysdk/learnositysdk/0.15/learnositysdk-0.15-sources.jar. Error code 401, 
+https\://devops.bigideasmath.com/artifactory/libs-snapshot/.error=Could not transfer artifact learnositysdk\:learnositysdk\:jar\:sources\:0.15 from/to snapshots (https\://devops.bigideasmath.com/artifactory/libs-snapshot)\: Failed to transfer https\://devops.bigideasmath.com/artifactory/libs-snapshot/learnositysdk/learnositysdk/0.15/learnositysdk-0.15-sources.jar. Error code 522, 
+http\://repo1.maven.org/maven2/.error=
+https\://repo1.maven.org/maven2/.lastUpdated=1718969101423

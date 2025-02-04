@@ -1,0 +1,17 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jun 20 19:28:51 IST 2024
+https\://jitpack.io/.error=Could not transfer artifact learnositysdk\:learnositysdk\:pom\:0.15 from/to jitpack.io (https\://jitpack.io)\: The operation was cancelled.
+https\://repo1.maven.org/maven2/.lastUpdated=1718891929377
+@default-github-uoc-https\://maven.pkg.github.com/uoc/.lastUpdated=1718879657260
+file\:D\:\\workspace\\workspace\\BIL\\bigideasmath\\source-fred/repo/.lastUpdated=1718891931929
+@default-jitpack.io-https\://jitpack.io/.lastUpdated=1718879527045
+https\://maven.pkg.github.com/uoc/.error=Could not transfer artifact learnositysdk\:learnositysdk\:pom\:0.15 from/to github-uoc (https\://maven.pkg.github.com/uoc)\: Access denied to https\://maven.pkg.github.com/uoc/learnositysdk/learnositysdk/0.15/learnositysdk-0.15.pom. Error code 401, 
+https\://devops.bigideasmath.com/artifactory/libs-snapshot/.error=Could not transfer artifact learnositysdk\:learnositysdk\:pom\:0.15 from/to snapshots (https\://devops.bigideasmath.com/artifactory/libs-snapshot)\: Failed to transfer https\://devops.bigideasmath.com/artifactory/libs-snapshot/learnositysdk/learnositysdk/0.15/learnositysdk-0.15.pom. Error code 522, 
+file\:D\:\\workspace\\workspace\\BIL\\bigideasmath\\source-kate/repo/.error=
+file\:D\:\\workspace\\workspace\\BIL\\bigideasmath\\source-kate/repo/.lastUpdated=1718881733897
+https\://maven.pkg.github.com/jeet444/cleverVersion3/.lastUpdated=1718891931869
+https\://maven.pkg.github.com/uoc/*/.lastUpdated=1718891930619
+https\://maven.pkg.github.com/jeet444/cleverVersion3/.error=
+e03d7b4d4b5537c09948212c1dfc7f53474f2c39@default-snapshots-https\://devops.bigideasmath.com/artifactory/libs-snapshot/.lastUpdated=1718891928936
+https\://maven.pkg.github.com/uoc/*/.error=
+https\://repo1.maven.org/maven2/.error=

@@ -1,0 +1,15 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jun 20 17:36:03 IST 2024
+https\://repo1.maven.org/maven2/.error=
+https\://devops.bigideasmath.com/artifactory/libs-snapshot/.error=Could not transfer artifact learnositysdk\:learnositysdk\:jar\:0.15 from/to snapshots (https\://devops.bigideasmath.com/artifactory/libs-snapshot)\: status code\: 522, reason phrase\:  (522)
+https\://jitpack.io/.error=
+https\://maven.pkg.github.com/uoc/*/.lastUpdated=1718885036572
+https\://maven.pkg.github.com/jeet444/cleverVersion3/.error=
+https\://repo1.maven.org/maven2/.lastUpdated=1718885035219
+file\:D\:\\workspace\\workspace\\BIL\\bigideasmath\\source-fred/repo/.lastUpdated=1718885163359
+https\://maven.pkg.github.com/jeet444/cleverVersion3/.lastUpdated=1718885038088
+file\:D\:\\workspace\\workspace\\BIL\\bigideasmath\\source-kate/repo/.lastUpdated=1718885038111
+file\:D\:\\workspace\\workspace\\BIL\\bigideasmath\\source-kate/repo/.error=
+e03d7b4d4b5537c09948212c1dfc7f53474f2c39@default-snapshots-https\://devops.bigideasmath.com/artifactory/libs-snapshot/.lastUpdated=1718884782366
+https\://maven.pkg.github.com/uoc/*/.error=
+https\://jitpack.io/.lastUpdated=1718885039094
